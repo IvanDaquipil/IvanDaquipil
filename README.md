@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=IvanDaquipil&icon=6&color=10)](https://visitcount.itsvg.in)
 
+<img width="960" height="240" alt="BANNER" src="https://github.com/user-attachments/assets/a6fef2de-0c35-49c0-973b-80d2136df837" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
